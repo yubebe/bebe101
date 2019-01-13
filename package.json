@@ -1,0 +1,25 @@
+{
+  "name": "bebe101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yubebe/bebe101.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yubebe/bebe101/issues"
+  },
+  "homepage": "https://github.com/yubebe/bebe101#readme",
+  "description": "",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
+}
